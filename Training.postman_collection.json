@@ -47,12 +47,6 @@
 				},
 				{
 					"name": "Post users",
-					"event": [
-						{
-							"listen": "test",
-							
-						}
-					],
 					"request": {
 						"method": "POST",
 						"header": [],
